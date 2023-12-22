@@ -14,7 +14,7 @@ body{
     height: 100vh;
     background-color: black;
     /* background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2), url(./images/header-image.png)); */
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./images/header-image.png);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(./images/header-image.png);
     background-size: cover;
     background-position: center;
     padding: 10px 8%;
